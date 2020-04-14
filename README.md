@@ -1,1 +1,1 @@
-# Contribuições para soluções em problemas geofísicos com ênfase no método magnetotelúrico.
+# Contribuições para soluções em problemas geofísicos com enfase no método magnetotelúrico.
